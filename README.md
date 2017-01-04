@@ -1,4 +1,4 @@
-docker-rabbitmq-ssl-stomp
+docker-rabbitmq-ssl
 =========================
 
 RabbitMQ Docker image with SSL enabled
